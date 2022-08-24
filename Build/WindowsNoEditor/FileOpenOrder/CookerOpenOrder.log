@@ -1,0 +1,821 @@
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 0
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 1
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 2
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_Skeleton.uasset" 3
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/Gunplay.uasset" 4
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/crouch_idle.uasset" 5
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/crouch_to_standing_idle.uasset" 6
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_block_idle.uasset" 7
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_block_react_large.uasset" 8
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_disarm_over_shoulder.uasset" 9
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_disarm_underarm.uasset" 10
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_Movement_Idle_Middle.uasset" 11
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_idle.uasset" 12
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_idle_looking_ver__1.uasset" 13
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_jump.uasset" 14
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_360_high.uasset" 15
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_360_low.uasset" 16
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_backhand.uasset" 17
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_downward.uasset" 18
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_horizontal.uasset" 19
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_kick_ver__1.uasset" 20
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_attack_kick_ver__2.uasset" 21
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_combo_attack_ver__1.uasset" 22
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_combo_attack_ver__2.uasset" 23
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_combo_attack_ver__3.uasset" 24
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_melee_run_jump_attack.uasset" 25
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_react_large_from_left.uasset" 26
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_react_large_from_right.uasset" 27
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_react_large_gut.uasset" 28
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_run_back.uasset" 29
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_run_forward.uasset" 30
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_taunt_battlecry.uasset" 31
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_taunt_chest_thump.uasset" 32
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_turn_left_90.uasset" 33
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_turn_right_90.uasset" 34
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_walk_back.uasset" 35
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_walk_forward.uasset" 36
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_walk_left.uasset" 37
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/standing_walk_right.uasset" 38
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_equip_over_shoulder.uasset" 39
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_idle.uasset" 40
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_idle_looking_ver__1.uasset" 41
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_idle_looking_ver__2.uasset" 42
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_jump.uasset" 43
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_jump_running.uasset" 44
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_run_back.uasset" 45
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_run_forward.uasset" 46
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_turn_left_90.uasset" 47
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_turn_right_90.uasset" 48
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_walk_back.uasset" 49
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/unarmed_walk_forward.uasset" 50
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Gun/Drawing_Gun.uasset" 51
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Roughness.uasset" 52
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Normal.uasset" 53
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonSciFiCity_Texture_Metallic.uasset" 54
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonScifi_Emissive_01.uasset" 55
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonScifi_01_A.uasset" 56
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_Dirt_02.uasset" 57
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 58
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/WorldCoordinate3Way.uasset" 60
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A_Triplanar.uasset" 61
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_B.uasset" 62
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_B.uasset" 63
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_C.uasset" 64
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_C.uasset" 65
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_D.uasset" 66
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_D.uasset" 67
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_E.uasset" 68
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_E.uasset" 69
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_01_F.uasset" 70
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_01_F.uasset" 71
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_02.uasset" 72
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_A.uasset" 73
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_A.uasset" 74
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_B.uasset" 75
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_B.uasset" 76
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_C.uasset" 77
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_C.uasset" 78
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_D.uasset" 79
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_D.uasset" 80
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_E.uasset" 81
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_E.uasset" 82
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_02_F.uasset" 83
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_02_F.uasset" 84
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_03.uasset" 85
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_A.uasset" 86
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_A.uasset" 87
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_B.uasset" 88
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_B.uasset" 89
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_C.uasset" 90
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_C.uasset" 91
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_D.uasset" 92
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_D.uasset" 93
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_E.uasset" 94
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_E.uasset" 95
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_03_F.uasset" 96
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_03_F.uasset" 97
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_Emissive_04.uasset" 98
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_A.uasset" 99
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_A.uasset" 100
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_B.uasset" 101
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_B.uasset" 102
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_C.uasset" 103
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_C.uasset" 104
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_D.uasset" 105
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_D.uasset" 106
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_E.uasset" 107
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_E.uasset" 108
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/Alternates/T_PolygonScifi_04_F.uasset" 109
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Alternates/Mat_PolygonScifi_04_F.uasset" 110
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_Billboards.uasset" 111
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Billboards.uasset" 112
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonScifi_Background_Building_Emissive.uasset" 113
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_01.uasset" 114
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_02.uasset" 115
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Bkgrnd_Bld_Emissive_03.uasset" 116
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_BubbleShield.uasset" 117
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Default.uasset" 118
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Rain.uasset" 119
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Smoke.uasset" 120
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Glass.uasset" 121
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_GroundPlane.uasset" 122
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Hologram_Outlines.uasset" 123
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_NeonSigns.uasset" 124
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Neon.uasset" 125
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_Planet_02.uasset" 126
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_Planet_Background.uasset" 127
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_Signs.uasset" 128
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Signs.uasset" 129
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Transparent.uasset" 130
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Vehicle_Glass.uasset" 131
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Attachment_Bipod_01_Skeleton.uasset" 132
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Attachment_Bipod_01_PhysicsAsset.uasset" 133
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Mat_PolygonScifi_01_A.uasset" 134
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Attachment_Bipod_01.uasset" 135
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen1_01_Skeleton.uasset" 136
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen1_01_PhysicsAsset.uasset" 137
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen1_01.uasset" 138
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen2_01_Skeleton.uasset" 139
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen2_01_PhysicsAsset.uasset" 140
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen2_01.uasset" 141
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton.uasset" 142
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_PhysicsAsset.uasset" 143
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01.uasset" 144
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton.uasset" 145
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_PhysicsAsset.uasset" 146
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01.uasset" 147
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton.uasset" 148
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_PhysicsAsset.uasset" 149
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01.uasset" 150
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton.uasset" 151
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_PhysicsAsset.uasset" 152
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01.uasset" 153
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton.uasset" 154
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_PhysicsAsset.uasset" 155
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01.uasset" 156
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton.uasset" 157
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_PhysicsAsset.uasset" 158
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02.uasset" 159
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Small_01_Skeleton.uasset" 160
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Small_01_PhysicsAsset.uasset" 161
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Small_01.uasset" 162
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton.uasset" 163
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_PhysicsAsset.uasset" 164
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01.uasset" 165
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton.uasset" 166
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_PhysicsAsset.uasset" 167
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01.uasset" 168
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Syringe_Gun_01_Skeleton.uasset" 169
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Syringe_Gun_01_PhysicsAsset.uasset" 170
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Syringe_Gun_01.uasset" 171
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 172
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 173
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 174
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 175
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 176
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 177
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 178
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 179
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 180
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 181
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 182
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 183
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 184
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 185
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 186
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 187
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 188
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 189
+"../../Plugins/FX/Niagara/Content/Functions/MakeVectorsOrthogonal.uasset" 190
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 191
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndZVectors.uasset" 192
+"../../Plugins/FX/Niagara/Content/Functions/DeriveThirdOrthogonalVector.uasset" 193
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFromXAndYVectors.uasset" 194
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 195
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 196
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 197
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/LerpQuaternion.uasset" 198
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 199
+"../../Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/OrientMeshToVector.uasset" 200
+"../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 201
+"../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 202
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 203
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 204
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 205
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 206
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 207
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 208
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 209
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 210
+"../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 211
+"../../Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 212
+"../../Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 213
+"../../Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 214
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 215
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 216
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 217
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 218
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 219
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 220
+"../../Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 221
+"../../Plugins/FX/Niagara/Content/Functions/V2/DistanceBasedFalloff.uasset" 222
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 223
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 224
+"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 225
+"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 226
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/PointForce.uasset" 227
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 228
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 229
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 230
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 231
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 232
+"../../Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 233
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 234
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 235
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 236
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V3/InitialMeshOrientation.uasset" 237
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V2/InitialMeshOrientation.uasset" 238
+"../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 239
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 240
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 241
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 242
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 243
+"../../Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent.uasset" 244
+"../../Plugins/FX/Niagara/Content/Modules/Events/ReceiveLocationEvent.uasset" 245
+"../../Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uasset" 246
+"../../Plugins/FX/Niagara/Content/Modules/Events/GenerateLocationEvent.uasset" 247
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 248
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 249
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 250
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 251
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 252
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 253
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 254
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/VectorFromCurve.uasset" 255
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 256
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 257
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/UniformRangedLinearColor.uasset" 258
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector.uasset" 259
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 260
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 261
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 262
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ScaleByCurve/ScaleVectorByCurve.uasset" 263
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ScaleByCurve/ScaleFloatByCurve.uasset" 264
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 265
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector2.uasset" 266
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/ApplyInitialForces.uasset" 267
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset" 268
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Divide/Divide_Float.uasset" 269
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 270
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_01/NS_Explosion_01.uasset" 271
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 272
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector2DFromCurve.uasset" 273
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 274
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/CylinderLocation.uasset" 275
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_02/NS_Explosion_02.uasset" 276
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 277
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_03/NS_Explosion_03.uasset" 278
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveRotationalForcesAndVelocity.uasset" 279
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVector4_FromFloat.uasset" 280
+"../../Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uasset" 281
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_04/NS_Explosion_04.uasset" 282
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformOffset.uasset" 283
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/LinearForce.uasset" 284
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_05/NS_Explosion_05.uasset" 285
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 286
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVectorFromLinearColorRGB.uasset" 287
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Transforms/TransformVector.uasset" 288
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Explosion_06/NS_Explosion_06.uasset" 289
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uasset" 290
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 291
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_01/NS_Fire_01.uasset" 292
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_02/NS_Fire_02.uasset" 293
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_03/NS_Fire_03.uasset" 294
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_04/NS_Fire_04.uasset" 295
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 296
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 297
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/PointAttractionForce.uasset" 298
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Add/Add_Vector.uasset" 299
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_05/NS_Fire_05.uasset" 300
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Fire_06/NS_Fire_06.uasset" 301
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Smoke_01/NS_Smoke_01.uasset" 302
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Smoke_02/NS_Smoke_02.uasset" 303
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/StylizedNiagara/Particles/Smoke_03/NS_Smoke_03.uasset" 304
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/Teams.uasset" 305
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Teams.uasset" 306
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Initalize.uasset" 307
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/GameStates/TurnStates.uasset" 308
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/TurnTimer/Struct_GameTime.uasset" 309
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Fonts/Mohave/static/Mohave-Bold.uasset" 310
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Fonts/Mohave/static/Mohave-Bold_Font.uasset" 311
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/panels/t_window2_h180.uasset" 312
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Bubbles/512px/bubble_bg.uasset" 313
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Turn/UI_TurnCountdown.uasset" 314
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/Weapons/BPI_Weapons.uasset" 315
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 316
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Active.uasset" 317
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/WeaponsandProjectiles/Struct_ProjectileSettings.uasset" 318
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/Accessories/SM_Wep_Ammo_Rifle_01.uasset" 319
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Weapons/D_ProjectileTable.uasset" 320
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/Weapons/BPI_Bullets.uasset" 321
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/Weapons/BPI_Projectile.uasset" 322
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/BP_BaseBullet.uasset" 323
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 324
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 326
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 327
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Models/MS_debris_01.uasset" 328
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_noise_nrm_01.uasset" 329
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_shockwave_dist_01.uasset" 330
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_mesh_burn_01.uasset" 331
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_flare_01.uasset" 332
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_burn.uasset" 333
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_burned_01.uasset" 334
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_toon_cloud_02.uasset" 335
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_clouds_noise_01.uasset" 336
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_toon_cloud_01.uasset" 337
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Particles/red/P_r_Explosion_gr_lrg_01.uasset" 338
+"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset" 339
+"../../../Engine/Content/EngineMeshes/ParticleCube.uasset" 340
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonSciFi_FX_Fire.uasset" 341
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Particles/FX_Fire.uasset" 342
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/Projectile/BP_BaseProjectile.uasset" 343
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/Sounds/Struct_SoundEffects.uasset" 344
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/SoundClasses/Music.uasset" 345
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/SoundClasses/Master.uasset" 346
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/SoundClasses/SFX.uasset" 347
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Wavs/Revive_heal_4.uasset" 348
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Cues/Revive_heal_4_Cue.uasset" 349
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Wavs/Open_map_5.uasset" 350
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Cues/Open_map_5_Cue.uasset" 351
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Wavs/Click_back_sound_19.uasset" 352
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/UI_Item_Sounds_HD_Remake/Cues/Click_back_sound_19_Cue.uasset" 353
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Wavs/Footsteps_Concrete__Walking_.uasset" 354
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Cues/Footsteps_Concrete__Walking__Cue.uasset" 355
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Wavs/Footsteps_Concrete__Walking__12.uasset" 356
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Cues/Footsteps_Concrete__Walking__12_Cue.uasset" 357
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Sci_Fi_Weapon_Sounds/Wavs/Weapon_Swap/Weapon_Swap_3.uasset" 358
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Sci_Fi_Weapon_Sounds/Cues/Weapon_Swap/Weapon_Swap_3_Cue.uasset" 359
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Sci_Fi_Weapon_Sounds/Wavs/Weapon_Equipped/Weapon_Equipped_5.uasset" 360
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Sci_Fi_Weapon_Sounds/Cues/Weapon_Equipped/Weapon_Equipped_5_Cue.uasset" 361
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Real_Recorded_Guns/Wavs/Guns/Shotgun_01/Shotgun_Boom_102.uasset" 362
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Real_Recorded_Guns/Cues/Guns/Shotgun_01/Shotgun_Boom_102_Cue.uasset" 363
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Natural_Ambiances_VOL2_HD_Remake/Wavs/Desert_2.uasset" 364
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Natural_Ambiances_VOL2_HD_Remake/Cues/Desert_2_Cue.uasset" 365
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Wavs/Open_Loot_Box_Sound_1.uasset" 366
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Cues/Open_Loot_Box_Sound_1_Cue.uasset" 367
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Wavs/Clicks_Sound__button_hover__7.uasset" 368
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Cues/Clicks_Sound__button_hover__7_Cue.uasset" 369
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Wavs/Clicks_Sound__button_hover__3.uasset" 370
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Modern_UI_Sounds_HD_Rework/Cues/Clicks_Sound__button_hover__3_Cue.uasset" 371
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Magic_SFX_Pro/Wavs/Magical_UI_Sounds/Click_3.uasset" 372
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Magic_SFX_Pro/Cues/Magical_UI_Sounds/Click_3_Cue.uasset" 373
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Gun_Sounds_Pro_HD_Remake/Wavs/Assault_Rifle_Burst.uasset" 374
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Gun_Sounds_Pro_HD_Remake/Cues/Assault_Rifle_Burst_Cue.uasset" 375
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Wavs/Spear_throw.uasset" 376
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Survival_Sound_Kit_HD_Remake/Cues/Spear_throw_Cue.uasset" 377
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Wavs/Explosion_Tiny_1.uasset" 378
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Cues/Explosion_Tiny_1_Cue.uasset" 379
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Wavs/Explosion_Massive_7.uasset" 380
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Cues/Explosion_Massive_7_Cue.uasset" 381
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Wavs/Explosion_Massive_1.uasset" 382
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Cues/Explosion_Massive_1_Cue.uasset" 383
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Wavs/Explosion_Grenade_1.uasset" 384
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Ultimate_SFX/Explosion_Sounds_Pro_HD_Remake/Cues/Explosion_Grenade_1_Cue.uasset" 385
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/D_SoundEffects.uasset" 386
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Managers/BP_AudioManager.uasset" 387
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Audio.uasset" 388
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/Projectile/BP_BulletProjectile.uasset" 389
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_toon_cloud_06.uasset" 390
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/MI_toon_cloud_04.uasset" 391
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_toon_cloud_05.uasset" 392
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/MI_toon_cloud_03.uasset" 393
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Particles/red/P_r_Explosion_gr_sm_05.uasset" 394
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/LineTrace/BP_BaseRayBullet.uasset" 395
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_toon_cloud_03.uasset" 396
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_Muszzle_st_shape_08.uasset" 397
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/M_glow.uasset" 398
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Models/MS_cyl_01.uasset" 399
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Textures/T_toon_cloud_07.uasset" 400
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Materials/MI_toon_cloud_05.uasset" 401
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/Stl_explosion_vfx/Particles/red/P_r_Explosion_gr_sm_06.uasset" 402
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/LineTrace/BP_ScatterRay.uasset" 403
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/Bullets/LineTrace/BP_BulletRay.uasset" 404
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Weapons/UI_ThrowableCountdown.uasset" 405
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/WeaponsandProjectiles/Struct_ThrowableWeapons.uasset" 406
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Weapons/D_ThrowableTable.uasset" 407
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_HE_01_Skeleton.uasset" 408
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_HE_01_PhysicsAsset.uasset" 409
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_HE_01.uasset" 410
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/BP_ThrowableWeapon.uasset" 411
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/WeaponsandProjectiles/Struct_GunWeaponsSettings.uasset" 412
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Weapons/D_GunTable.uasset" 413
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton.uasset" 414
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_PhysicsAsset.uasset" 415
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01.uasset" 416
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/Weapons/FiringType.uasset" 417
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/BP_GunWeapon.uasset" 418
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/Weapons/WeaponType.uasset" 419
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/WeaponsandProjectiles/Struct_WeaponSettings.uasset" 420
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Tex2D_ShotGun_Inventory.uasset" 421
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Tex2D_Grenade_Inventory.uasset" 422
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Tex2D_BigBomb_Inventory.uasset" 423
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Tex2D_Bazooka_Inventory.uasset" 424
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Tex2D_AssaultRifle_Inventory.uasset" 425
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/WeaponIcons/Reticule.uasset" 426
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton.uasset" 427
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_PhysicsAsset.uasset" 428
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02.uasset" 429
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton.uasset" 430
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_PhysicsAsset.uasset" 431
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03.uasset" 432
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_Stun_01_Skeleton.uasset" 433
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_Stun_01_PhysicsAsset.uasset" 434
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Weapons/SK_Wep_Grenade_Stun_01.uasset" 435
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Weapons/D_WeaponTable.uasset" 436
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Managers/BP_WeaponManager.uasset" 437
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/WeaponsandProjectiles/Struct_WeaponStartingNum.uasset" 438
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Weapons/D_StartingWeapons.uasset" 439
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Panels/universal_slot_512x512px.uasset" 440
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Character/Inventory/UI_WeaponButton.uasset" 441
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Panels/window_type2_gray_1602x2048px.uasset" 442
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Character/Inventory/UI_Inventory.uasset" 443
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_Inventory.uasset" 444
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/panels/t_window2_h80.uasset" 445
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Panels/window_type1_gray_802x336px.uasset" 446
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Turn/UI_PostTurnTitle.uasset" 447
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/UI/HUD_UIType.uasset" 448
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/UI_HUD.uasset" 449
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_hover_o.uasset" 450
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_down_o.uasset" 451
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Panels/t_window_type1_gray_1602x2048px.uasset" 452
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Panels/t_title_bg_g_1024px.uasset" 453
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Buttons/simple_512px/t_button_simple_o.uasset" 454
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Pause/UI_PauseMenu.uasset" 455
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Managers/BP_UIManger.uasset" 456
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Macros/Macro_Team.uasset" 457
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Character.uasset" 458
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Controllers/Player/C_WormsController.uasset" 459
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Controllers.uasset" 460
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/BP_ViewportCamrea.uasset" 461
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/panels/t_window1_w430_gray.uasset" 462
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Panels/t_title_bg_r_1024px.uasset" 463
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Panels/t_title_bg_b_1024px.uasset" 464
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Buttons/simple_512px/t_button_simple_hover_o.uasset" 465
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Buttons/simple_512px/t_button_simple_down_o.uasset" 466
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/WinScreen/UI_WinScreen.uasset" 467
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_GameInstance.uasset" 468
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_ScoreStaes.uasset" 469
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_GameTime.uasset" 470
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/Map/Struct_NoiseSettings.uasset" 471
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/Map/Struct_GridDimentions.uasset" 472
+"../../../Engine/Content/BasicShapes/Cube.uasset" 473
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_PolygonSciFi_Road_01.uasset" 474
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Textures/T_Dirt_01.uasset" 475
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Materials/Misc/Mat_PolygonScifi_Roads.uasset" 476
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/MapGenration/BP_GroundCube.uasset" 477
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Structs/Map/Struct_MapSettings.uasset" 478
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Map/D_MapSettings.uasset" 479
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/DataTables/Map/D_MapNoiseSettings.uasset" 480
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Props/SM_Prop_Crate_Military_02_Lid.uasset" 481
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Props/SM_Prop_Crate_Military_02.uasset" 482
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/WeaponsCrate/BP_WeaponCreate.uasset" 483
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_WeaponSpawn.uasset" 484
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Environments/SM_Env_Ocean_Tile_Bumps_01.uasset" 485
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/MapGenration/BP_GroundWater.uasset" 486
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Forest.uasset" 487
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Forest_Sprite1.uasset" 488
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Desert.uasset" 489
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Desert_Sprite1.uasset" 490
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/DeadSea.uasset" 491
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/DeadSea_Sprite1.uasset" 492
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Arctic.uasset" 493
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/FantasyBackgrounds/Fantasy/Arctic_Sprite1.uasset" 494
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/MapGenration/BP_Background.uasset" 495
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Managers/BP_MapManager.uasset" 496
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/GameStates/GameStates.uasset" 497
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/Task/BP_Task_FireWeaponAtTarget.uasset" 498
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/Task/BP_Task_EquipWeapon.uasset" 499
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/Task/BP_Task_ClearVariables.uasset" 500
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/Service/BP_Service_SelectWeapon.uasset" 501
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/Service/BP_Service_FindTarget.uasset" 502
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/BB_UnstableWormsAI.uasset" 503
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/AI/AI_logic/BT_WormsCharAI.uasset" 504
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Controllers/AI/AIC_WormsAIController.uasset" 505
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_SciFiCity_PhysicsAsset.uasset" 506
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Garbage_Male_01.uasset" 507
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Cyber_Male_01.uasset" 508
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Cyber_Female_01.uasset" 509
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_CyberPunk_Male_01.uasset" 510
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Cop_01.uasset" 511
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Augmented_Male_01.uasset" 512
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Android_Female_01.uasset" 513
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Alien_Male_02.uasset" 514
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_Alien_Male_01.uasset" 515
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/PolygonScifi/Meshes/Characters/SK_Character_CyborgNinja_01.uasset" 516
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/GameMode/GM_UnstableWorms.uasset" 517
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_GameModes.uasset" 518
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_TurnSystem.uasset" 519
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Weapons/UI_Reticle.uasset" 520
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/Weapons/BPI_ReticleUI.uasset" 521
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Weapons/BP_BaseWeapon.uasset" 522
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Interfaces/BPI_Damageable.uasset" 523
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Componenets/Com_Heath.uasset" 524
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/panels/t_universal_slot.uasset" 525
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Bar/fill_thin_1656x80px.uasset" 526
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Character/UI_WeaponCharge.uasset" 527
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Items_and_icons/icons256x256px/arrow_down.uasset" 528
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Character/UI_HighlightCharacter.uasset" 529
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Icons_and_items/icons64x64px/arrow_down.uasset" 530
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Character/UI_HealthBar.uasset" 531
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/Anim_unarmed_equip.uasset" 532
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Montages/Anim_Mon_DrawThrowable.uasset" 533
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Gun/Anim_Drawing_Gun.uasset" 534
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Montages/Anim_Mon_DrawGun.uasset" 535
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Anim_Death.uasset" 536
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Montages/Anim_Mon_Death.uasset" 537
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/BaseGunPose.uasset" 538
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/AO_Gun_AimRight.uasset" 539
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/AO_Gun_AimDown.uasset" 540
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/AO_GunAimUp.uasset" 541
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/BlendSpaces/Anim_BS_WeaponAim.uasset" 542
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_Movement_Idle_Right.uasset" 543
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_Movement_Idle_Left.uasset" 544
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_CharacterWalkFowards.uasset" 545
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_CharacterWalkBackwards.uasset" 546
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Unarmed_Idle_Walk/Anim_CharacterWalkMiddleBlend.uasset" 547
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/BlendSpaces/Anim_BS_Unarmed_Idel_Walk.uasset" 548
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/ThrowableWeapon_Char_Anim/Anim_Throwable_Hold_Idel.uasset" 549
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/BlendSpaces/Anim_BS_Throwable_Equip_Idel_Walk.uasset" 550
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/GunWeapon_Char_Anim/Anim_Rifle_Idle.uasset" 551
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/GunWeapon_Char_Anim/Anim_Gun_WalkingRight.uasset" 552
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Combat/GunWeapon_Char_Anim/Anim_Gun_WalkingLeft.uasset" 553
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AimOffsets/AO_Gun_AimLeft.uasset" 554
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/BlendSpaces/Anim_BS_GunEquip_Idel_Walk.uasset" 555
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Jump/Anim_startJump.uasset" 556
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Jump/Anim_Falling_Idle.uasset" 557
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/Movement/Jump/Anim_endJump.uasset" 558
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Animation/AnimBP_WormsCharacter.uasset" 559
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/Player/BP_Character.uasset" 560
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/BP_SpawnPoint.uasset" 561
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/SpawnPoint.uasset" 562
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Controllers/Player/c_MenuController.uasset" 563
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/MapBackground.uasset" 564
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/MenuScreens/UI_MenuBackground.uasset" 565
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/MenuScreens/UI_TitleScreen.uasset" 566
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/UI/VideoQuality.uasset" 567
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/panels/t_dropdown_simple_bg.uasset" 568
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/icons/t_arrow_d.uasset" 569
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/Options/UI_Video.uasset" 570
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/SoundClasses/MasterSoundMix.uasset" 571
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Slider/32px/t_slider_handle.uasset" 572
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Slider/128px/t_slider_bar.uasset" 573
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/Options/UI_Sound.uasset" 574
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/MouseKeyboardControls.uasset" 575
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/UI/GamePadControls.uasset" 576
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Panels/t_window_type1_g_802x1024px.uasset" 577
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_o.uasset" 578
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/Options/UI_Controls.uasset" 579
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/buttons/square/t_icon_button_hover_b.uasset" 580
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/buttons/square/t_icon_button_down_b.uasset" 581
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/buttons/square/t_icon_button_b.uasset" 582
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_hover_b.uasset" 583
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_down_b.uasset" 584
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/FullHd/Buttons/simple_256px/t_button_simple_b.uasset" 585
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/additional_png_sizes/4K/Items_and_icons/icons256x256px/t_x.uasset" 586
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/MenuScreens/UI_Options.uasset" 587
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Garbage_Male.uasset" 588
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Garbage_Male_Mat.uasset" 589
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_CyborgNinja.uasset" 590
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_CyborgNinja_Mat.uasset" 591
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Cyber_Male.uasset" 592
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Cyber_Male_Mat.uasset" 593
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Cyber_Female.uasset" 594
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Cyber_Female_Mat.uasset" 595
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_CyberPunk_Male.uasset" 596
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_CyberPunk_Male_Mat.uasset" 597
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_CyberCop.uasset" 598
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_CyberCop_Mat.uasset" 599
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Character_Android_Female.uasset" 600
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Character_Android_Female_Mat.uasset" 601
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Augmented_Male.uasset" 602
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Augmented_Male_Mat.uasset" 603
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Alien_Male.uasset" 604
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Alien_Male_Mat.uasset" 605
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Textures/RT_Alien_Male_02.uasset" 606
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/Material/RT_Alien_Male_02_Mat.uasset" 607
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/check_and_toggle/t_toggle_bg.uasset" 608
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/tex2D/check_and_toggle/t_toggle.uasset" 609
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Buttons/simple_128px/button_simple_o.uasset" 610
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Buttons/simple_128px/button_simple_hover_o.uasset" 611
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/FullHD/Buttons/simple_128px/button_simple_down_o.uasset" 612
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Items_and_icons/icons256x256px/arrow_right.uasset" 613
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Assets/clean_cartoon_gui/additional_png_sizes/4K/Items_and_icons/icons256x256px/arrow_left.uasset" 614
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/MenuScreens/UI_GameSetup.uasset" 615
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/UI/MainMenu_UIType.uasset" 616
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/UI/Menus/Main/UI_MainMenu.uasset" 617
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Controllers/Player/C_MainMenuController.uasset" 618
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/Characters/Player/BP_MenuSpectator.uasset" 619
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/GameMode/GM_MainMenu.uasset" 620
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/GameMode/Instance_UnstableWorms.uasset" 621
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Blueprints/MapGenration/BP_MapManager.uasset" 622
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Enum/Weapons/WeaponNames.uasset" 623
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterSelectionRenderTargets/CharacterRenderTarget.uasset" 624
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/CharacterRenderTarget.uasset" 625
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Splash/EdSplash.uasset" 626
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Splash/Splash.uasset" 627
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 628
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 629
+"../../../Engine/Content/BasicShapes/Cone.uasset" 630
+"../../../Engine/Content/BasicShapes/Plane.uasset" 631
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 632
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 633
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 634
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 635
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 636
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 637
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 638
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 639
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 640
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 641
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 642
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 643
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 644
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 645
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 646
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 647
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 648
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 649
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 650
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 651
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 652
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 653
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 654
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 655
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 656
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 657
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 658
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 659
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 660
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 661
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 662
+"../../../Engine/Content/EditorResources/S_Note.uasset" 663
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 664
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 665
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 666
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 667
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 668
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 669
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 670
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 671
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 672
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 673
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 674
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 675
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 676
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 677
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 678
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 679
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 680
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 681
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 682
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 683
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 684
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 685
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 686
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 687
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 688
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 689
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 690
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 691
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 692
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 693
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 694
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 695
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 696
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 697
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 698
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 699
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 700
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 701
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 702
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 703
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 704
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 705
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 706
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 707
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 708
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 709
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 710
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 711
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 712
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 713
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 714
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 715
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 716
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 717
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 718
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 719
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 720
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 721
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 722
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 723
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 724
+"../../../Engine/Content/EngineResources/Black.uasset" 725
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 726
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 727
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 728
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 729
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 730
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 731
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 732
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 733
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 734
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 735
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 736
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 737
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 738
+"../../../Engine/Content/EngineSounds/Master.uasset" 739
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 740
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 741
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 742
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 743
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 744
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 745
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 746
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 747
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 748
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 749
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 750
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 751
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 752
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 753
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 754
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 755
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 756
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 757
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 758
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 759
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 760
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 761
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 762
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 763
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 764
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 765
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 766
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 767
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 768
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 769
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 770
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 771
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 772
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 773
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 774
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 775
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 776
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 777
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 778
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 779
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 780
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 781
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 782
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 783
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 784
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 785
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 786
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 787
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 788
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 789
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 790
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 791
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 792
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 793
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 794
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 795
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 796
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 797
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 798
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 799
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 800
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 801
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 802
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 803
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 804
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 805
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 806
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 807
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 808
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 809
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/MainMenu_BuiltData.uasset" 810
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 811
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 812
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 813
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 814
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 815
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Menus/MainMenu.umap" 816
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Worlds/Worms_World_BuiltData.uasset" 817
+"D:/Design and Programming/Level 6- Year 3/Advanced Technical Design/Semester 1/Unstable_Worms/Content/Scene/Worlds/Worms_World.umap" 818
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 819
+"../../../Engine/Content/Maps/Entry.umap" 820
